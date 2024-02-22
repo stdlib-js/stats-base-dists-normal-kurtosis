@@ -67,7 +67,7 @@ The [excess kurtosis][kurtosis] for a [normal][normal-distribution] random varia
 ## Usage
 
 ```javascript
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-kurtosis@v0.2.1-deno/mod.js';
 ```
 
 #### kurtosis( mu, sigma )
@@ -124,7 +124,7 @@ y = kurtosis( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-kurtosis@v0.2.1-deno/mod.js';
 
 var sigma;
 var mu;
