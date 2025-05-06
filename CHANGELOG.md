@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-05)
+## Unreleased (2025-05-06)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8c463ff`](https://github.com/stdlib-js/stdlib/commit/8c463ff85300e86d6a782511d1defea793994da5) - **style:** fix indentation in C files _(by Philipp Burckhardt)_
 -   [`deacad1`](https://github.com/stdlib-js/stdlib/commit/deacad16a9e830127fe0473a1e599e1773f47af8) - **feat:** add C implementation for `stats/base/dists/normal/kurtosis` [(#3954)](https://github.com/stdlib-js/stdlib/pull/3954) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
