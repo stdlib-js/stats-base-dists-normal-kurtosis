@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-06)
+## Unreleased (2025-05-14)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`fd578c4`](https://github.com/stdlib-js/stdlib/commit/fd578c493f1860b3b65c250139a465f1cdd00528) - **test:** fix missing `opts` argument _(by Athan Reines)_
 -   [`8c463ff`](https://github.com/stdlib-js/stdlib/commit/8c463ff85300e86d6a782511d1defea793994da5) - **style:** fix indentation in C files _(by Philipp Burckhardt)_
 -   [`deacad1`](https://github.com/stdlib-js/stdlib/commit/deacad16a9e830127fe0473a1e599e1773f47af8) - **feat:** add C implementation for `stats/base/dists/normal/kurtosis` [(#3954)](https://github.com/stdlib-js/stdlib/pull/3954) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
@@ -48,8 +49,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Manvith M
 -   Philipp Burckhardt
 
